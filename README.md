@@ -9,7 +9,7 @@ All credits goes to the respective owners of the code..
 
 Here is a full compherehensive guide.. 
 (I dont hold any responsibilty if u do something wrong or any other liability)
-(Even tho any of the steps wont potensially harm your pc or any files.. but to be safe u can make a system restore point and restore back to your previous state of the machine if something goes wrong)
+(Even tho any of the steps wont potentially harm your pc or any files.. but to be safe u can make a system restore point and restore back to your previous state of the machine if something goes wrong)
 _________________________________________________________
 
 Easy RPC (by Pizzabelly) (https://github.com/Pizzabelly/EasyRP)
